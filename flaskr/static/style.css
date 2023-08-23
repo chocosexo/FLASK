@@ -2,6 +2,8 @@ html {
     font-family: sans-serif;
     background: #eee;
     padding: 1rem;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 44%, rgba(53,50,85,1) 100%);
   }
   
   body {
@@ -12,12 +14,12 @@ html {
   
   h1, h2, h3, h4, h5, h6 {
     font-family: serif;
-    color: #377ba8;
+    color:rgb(255, 255, 255);
     margin: 1rem 0;
   }
   
   a {
-    color: #377ba8;
+    color: #ffffff;
   }
   
   hr {
@@ -26,7 +28,7 @@ html {
   }
   
   nav {
-    background: lightgray;
+    background: rgb(2,0,36);
     display: flex;
     align-items: center;
     padding: 0 0.5rem;
