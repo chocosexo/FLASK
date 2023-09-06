@@ -115,6 +115,7 @@ html {
   .content label {
     font-weight: bold;
     margin-bottom: 0.5em;
+    color: white;
   }
   
   .content input, .content textarea {
@@ -138,4 +139,8 @@ html {
   span{
     color:rgb(255, 255, 255);
     font-family: serif;
+  }
+
+  p{
+    color:white;
   }
